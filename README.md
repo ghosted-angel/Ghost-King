@@ -5,8 +5,6 @@ Version: 1.0
 Replace all [PLACEHOLDERS] before publishing.
 Remove any sections that do not represent your actual work.
 -->
-
-<p align="center">
   <img src="./assets/nexus-hero.svg" alt="Digital Archaeology — a retro-futuristic technical identity" width="100%">
 </p>
 

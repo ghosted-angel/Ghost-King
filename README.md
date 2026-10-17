@@ -6,12 +6,6 @@ Replace all [PLACEHOLDERS] before publishing.
 Remove any sections that do not represent your actual work.
 -->
   <img src="./assets/nexus-hero.svg" alt="Digital Archaeology — a retro-futuristic technical identity" width="100%">
-</p>
-
-<p align="right">
-  <sub>PERSONAL SYSTEM / NEXUS-001 / BUILD 01</sub>
-</p>
-
 <h1 align="center">[YOUR_DISPLAY_NAME]</h1>
 
 <p align="center">
